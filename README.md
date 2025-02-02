@@ -59,6 +59,8 @@ Toast Message SDK
 |   |   |   |-- TosatUI.cs
 |   |-- Builds/
 |-- README.md
+![alt text](project_structure.png)
+
 
 ## Installation
 
