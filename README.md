@@ -76,7 +76,7 @@ Looks like : "Location: India, Today: 31.1°C, Tomorrow: 30.2°C"
 
 - Open-Meteo API [here](https://open-meteo.com/en/docs#api-documentation).
 
-- OpenStreetMap Nominatim [here](https://nominatim.openstreetmap.org/reverse?format=json).
+- OpenStreetMap Nominatim [here](https://nominatim.openstreetmap.org/ui/search.html?q=19.125%2C+72.875).
 
 ## Android Instructions
 
