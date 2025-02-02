@@ -45,7 +45,7 @@ Open the project in Unity Version 2022.3.33f1. If you want to make Android build
 Ensure the required dependencies as TextMeshPro are installed.
 
 Install TextMeshPro both packages by navigating to:
-1. Window > TextMeshPro > Import TMP Essential Resources and.
+1. Window > TextMeshPro > Import TMP Essential Resources.
 2. Window > TextMeshPro > Import TMP Examples and Extras.
 
 ### Import the Toast Unity Package
