@@ -30,36 +30,10 @@ Toast Message SDK
 
 ## Project Structure
 
-|-- UnitySDK/
-|   |-- Assets/
-|   |   |-- Prefabs/
-|   |   |   |-- CustomTemplate.prefab
-|   |   |-- Resources/
-|   |   |   |-- Toast.prefab
-|   |   |   |-- Toast.unitypackage
-|   |   |-- Scene/
-|   |   |   |-- Weather App.unity
-|   |   |-- Scripts/
-|   |   |   |-- CustomTemplate.cs
-|   |   |   |-- LocationManager.cs
-|   |   |   |-- WeatherAppTests.cs
-|   |   |   |-- WeatherManager.cs
-|   |   |-- Sprites/
-|   |   |   |-- Rounded10px.png
-|   |   |   |-- Rounded20px.png
-|   |   |   |-- Rounded40px.png
-|   |   |-- Tests/
-|   |   |   |-- Tests/
-|   |   |   |   |-- Tests.cs
-|   |   |   |   |-- ToastModel.cs
-|   |   |   |   |-- ToastModelTests.cs
-|   |   |-- TextMesh Pro/
-|   |   |-- Toast/
-|   |   |   |-- Tosat.cs
-|   |   |   |-- TosatUI.cs
-|   |-- Builds/
-|-- README.md
+
+
 ![alt text](project_structure.png)
+
 
 
 ## Installation
