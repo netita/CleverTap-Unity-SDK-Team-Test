@@ -73,7 +73,7 @@ Install TextMeshPro both packages by navigating to:
 2. Window > TextMeshPro > Import TMP Examples and Extras (Figure 01).
 
 ### Import the Toast Unity Package
-Download and import the `Toast.unitypackage` into your Unity Project. **Go to Assets** > **Import Package** > **Custom Package**. 
+Import the `Toast.unitypackage` into your Unity Project. **Go to Assets** > **Import Package** > **Custom Package**. 
 
 ## Usage
 
@@ -85,11 +85,11 @@ Looks like : "Location: India, Today: 31.1°C, Tomorrow: 30.2°C"
 
 ## Weather App
 
-Attach WeatherManager.cs to a GameObject.
+1. Attach WeatherManager.cs to a GameObject.
 
-Assign CustomTemplate from the Prefabs folder.
+2. Assign CustomTemplate from the Prefabs folder.
 
-Run the game or Build & Run to test it directly to your Android device.
+3. Run the game or Build & Run to test it directly to your Android device.
 
 ## API References
 
