@@ -12,7 +12,7 @@ This project consists of a Unity SDK for displaying toast messages and a Weather
 
 Toast Message SDK
 
-- Displays toast messages with customizable text, duration, and position. In this case capture the Latitude and Longitude of the user and show the current temperature of the location of the user.
+- Displays toast messages with customizable text, duration, and position. In this case capture the Latitude and Longitude of the user and show the current and tomorrow temperature of the location of the user.
 
 - Supports a queue system to handle multiple toasts.
 
