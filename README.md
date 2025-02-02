@@ -117,4 +117,3 @@ Location retrieval may fail due to API limits.
 Developed by Aneta Spasova.
 
 
-
