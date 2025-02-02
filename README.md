@@ -64,7 +64,7 @@ Toast Message SDK
 
 Clone or download this repository.
 
-Open the project in Unity Version 2022.3.33f1. If you want to make Android builds select while installation ![alt text](image.png).
+Open the project in Unity Version 2022.3.33f1. If you want to make Android builds select while installation ![alt text](image.png)
 
 Ensure the required dependencies as TextMeshPro are installed.
 
