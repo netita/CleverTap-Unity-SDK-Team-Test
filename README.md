@@ -46,7 +46,7 @@ Ensure the required dependencies as TextMeshPro are installed.
 
 Install TextMeshPro both packages by navigating to:
 1. Window > TextMeshPro > Import TMP Essential Resources and.
-2. Window > TextMeshPro > Import TMP Examples and Extras (Figure 01).
+2. Window > TextMeshPro > Import TMP Examples and Extras.
 
 ### Import the Toast Unity Package
 Import the `Toast.unitypackage` into your Unity Project. **Go to Assets** > **Import Package** > **Custom Package**. 
